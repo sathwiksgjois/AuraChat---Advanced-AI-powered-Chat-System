@@ -7,7 +7,6 @@ AurraChat is a real-time full stack chat application built with secure end-to-en
 ## 🚀 Features
 
 - 🔄 Real-time Messaging (WebSockets)
-- 🔐 AES-based End-to-End Encryption
 - 🤖 AI Smart Replies
 - 🌍 Message Translation
 - 😊 Sentiment Analysis
@@ -23,7 +22,6 @@ AurraChat is a real-time full stack chat application built with secure end-to-en
 - Django
 - Django REST Framework
 - Django Channels (WebSockets)
-- Redis (Message Broker)
 - Celery (Background Tasks)
 
 ### Frontend
