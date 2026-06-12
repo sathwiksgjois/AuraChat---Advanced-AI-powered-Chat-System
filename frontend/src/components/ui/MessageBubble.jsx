@@ -3,6 +3,7 @@ const MessageBubble = ({ msg, currentUserId }) => {
 
   return (
     <div className={`message ${isMine ? "mine" : ""}`}>
+      
       <div className="content">
         {msg.content}
       </div>

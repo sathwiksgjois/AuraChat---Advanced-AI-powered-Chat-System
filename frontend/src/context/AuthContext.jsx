@@ -12,7 +12,7 @@ export function AuthProvider({ children }) {
   // AI states
   const [aiSuggestions, setAiSuggestions] = useState(null);
   const [aiMood, setAiMood] = useState(null);
-  const [chatSummary, setChatSummary] = useState(null); // ✅ included
+  const [chatSummary, setChatSummary] = useState(null); 
 
   const globalSocketRef = useRef(null);
 
