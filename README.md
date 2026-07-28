@@ -1,6 +1,6 @@
 # 🔐 AuraChat – Advanced AI Powered Secure Chat System
 
-AurraChat is a real-time full stack chat application built with secure end-to-end encryption and AI-powered features.
+AuraChat is a real-time full stack chat application built with secure end-to-end encryption and AI-powered features.
 
 ---
 
