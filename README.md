@@ -2,9 +2,8 @@
 
 > **A secure, AI-powered real-time messaging platform built with Django, React, and WebSockets, featuring end-to-end encryption and intelligent conversation assistance.**
 
-![Django](https://img.shields.io/badge/Django-5.x-success)
-![React](https://img.shields.io/badge/React-19-blue)
-![License](https://img.shields.io/badge/License-MIT-purple)
+
+\
 
 ---
 
@@ -193,8 +192,8 @@ npm run dev
 * [x] Translation
 * [x] Sentiment Analysis
 * [x] Chat Summarization
-* [ ] Voice messaging
-* [ ] File sharing
+* [x] Voice messaging
+* [x] File sharing
 * [ ] Video calling
 * [ ] Push notifications
 * [ ] AI conversation memory
